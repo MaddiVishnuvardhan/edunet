@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
 }
 body {
-      background-image: url('/images/back.jpg'); 
+      background-image: url('images/back.jpg'); 
       background-size: cover;    
       background-attachment: fixed;
       background-position: center;
@@ -409,4 +409,5 @@ footer {
         padding: 8px 12px;
         font-size: 0.9rem;
     }
+
 }
